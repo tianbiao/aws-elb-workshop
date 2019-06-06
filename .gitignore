@@ -1,0 +1,6 @@
+.DS_Store
+.idea/*
+infrastructure/.terraform/*
+infrastructure/terraform.tfstate
+infrastructure/terraform.tfstate.backup
+aws-elb-2019-06-06.pem
