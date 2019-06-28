@@ -26,5 +26,5 @@ Terraform
 --------
 ```bash
  cd infrastructure
- terraform apply
+ terraform apply -auto-approve 
 ```
